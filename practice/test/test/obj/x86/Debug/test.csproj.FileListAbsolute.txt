@@ -1,0 +1,5 @@
+E:\opencv practice\test\test\bin\Debug\test.exe
+E:\opencv practice\test\test\bin\Debug\test.pdb
+E:\opencv practice\test\test\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\opencv practice\test\test\obj\x86\Debug\test.exe
+E:\opencv practice\test\test\obj\x86\Debug\test.pdb

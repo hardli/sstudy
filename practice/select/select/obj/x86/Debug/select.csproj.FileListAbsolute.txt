@@ -1,0 +1,215 @@
+C:\Users\Gavin\Desktop\select\openfile\obj\x86\Debug\Openfile.exe
+C:\Users\Gavin\Desktop\select\openfile\obj\x86\Debug\Openfile.pdb
+C:\Users\Gavin\Desktop\select\openfile\bin\Debug\Openfile.exe
+C:\Users\Gavin\Desktop\select\openfile\bin\Debug\Openfile.pdb
+C:\Users\Gavin\Desktop\select\openfile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\select\openfile\obj\x86\Debug\Openfile.Form1.resources
+C:\Users\Gavin\Desktop\select\openfile\obj\x86\Debug\Openfile.Properties.Resources.resources
+C:\Users\Gavin\Desktop\select\openfile\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\select\openfile\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gavin\Desktop\lilan练习\select\openfile\obj\x86\Debug\Openfile.exe
+C:\Users\Gavin\Desktop\lilan练习\select\openfile\obj\x86\Debug\Openfile.pdb
+C:\Users\Gavin\Desktop\lilan练习\select\openfile\bin\Debug\Openfile.exe
+C:\Users\Gavin\Desktop\lilan练习\select\openfile\bin\Debug\Openfile.pdb
+C:\Users\Gavin\Desktop\lilan练习\select\openfile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\lilan练习\select\openfile\obj\x86\Debug\Openfile.Form1.resources
+C:\Users\Gavin\Desktop\lilan练习\select\openfile\obj\x86\Debug\Openfile.Properties.Resources.resources
+C:\Users\Gavin\Desktop\lilan练习\select\openfile\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\lilan练习\select\openfile\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gavin\Desktop\lilan练习11\select\openfile\obj\x86\Debug\Openfile.exe
+C:\Users\Gavin\Desktop\lilan练习11\select\openfile\obj\x86\Debug\Openfile.pdb
+C:\Users\Gavin\Desktop\lilan练习11\select\openfile\bin\Debug\Openfile.exe
+C:\Users\Gavin\Desktop\lilan练习11\select\openfile\bin\Debug\Openfile.pdb
+C:\Users\Gavin\Desktop\lilan练习11\select\openfile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\lilan练习11\select\openfile\obj\x86\Debug\Openfile.Form1.resources
+C:\Users\Gavin\Desktop\lilan练习11\select\openfile\obj\x86\Debug\Openfile.Properties.Resources.resources
+C:\Users\Gavin\Desktop\lilan练习11\select\openfile\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\lilan练习11\select\openfile\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gavin\Desktop\lilan练习11\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\lilan练习11\select\select\obj\x86\Debug\select.Form1.resources
+C:\Users\Gavin\Desktop\lilan练习11\select\select\obj\x86\Debug\select.Properties.Resources.resources
+C:\Users\Gavin\Desktop\lilan练习11\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\lilan练习11\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gavin\Desktop\lilan练习11\select\select\bin\Debug\select.exe
+C:\Users\Gavin\Desktop\lilan练习11\select\select\bin\Debug\select.pdb
+C:\Users\Gavin\Desktop\lilan练习11\select\select\obj\x86\Debug\select.exe
+C:\Users\Gavin\Desktop\lilan练习11\select\select\obj\x86\Debug\select.pdb
+C:\Users\Gavin\Desktop\lilan练习\select\select\obj\x86\Debug\select.exe
+C:\Users\Gavin\Desktop\lilan练习\select\select\obj\x86\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\lilan练习7-6.1\select\select\obj\x86\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\lilan练习7-6.1\select\select\obj\x86\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\lilan练习7-6.1\select\select\bin\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\lilan练习7-6.1\select\select\bin\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\lilan练习7-6.1\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\李兰练习\lilan练习7-6.1\select\select\obj\x86\Debug\select.Form1.resources
+C:\Users\Gavin\Desktop\李兰练习\lilan练习7-6.1\select\select\obj\x86\Debug\select.Properties.Resources.resources
+C:\Users\Gavin\Desktop\李兰练习\lilan练习7-6.1\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\lilan练习7-6.1\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\lilan练习7-6.2\select\select\obj\x86\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\lilan练习7-6.2\select\select\obj\x86\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\lilan练习7-6.2\select\select\bin\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\lilan练习7-6.2\select\select\bin\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\lilan练习7-6.2\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\李兰练习\lilan练习7-6.2\select\select\obj\x86\Debug\select.Form1.resources
+C:\Users\Gavin\Desktop\李兰练习\lilan练习7-6.2\select\select\obj\x86\Debug\select.Properties.Resources.resources
+C:\Users\Gavin\Desktop\李兰练习\lilan练习7-6.2\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\lilan练习7-6.2\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\2.0版本\select\select\obj\x86\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\2.0版本\select\select\obj\x86\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\3.0版本\select\select\obj\x86\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\3.0版本\select\select\obj\x86\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\3.0版本\select\select\bin\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\3.0版本\select\select\bin\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\3.0版本\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\李兰练习\3.0版本\select\select\obj\x86\Debug\select.Form1.resources
+C:\Users\Gavin\Desktop\李兰练习\3.0版本\select\select\obj\x86\Debug\select.Properties.Resources.resources
+C:\Users\Gavin\Desktop\李兰练习\3.0版本\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\3.0版本\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\4.0版本\select\select\obj\x86\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\4.0版本\select\select\obj\x86\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\4.0版本\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\李兰练习\4.0版本\select\select\obj\x86\Debug\select.Form1.resources
+C:\Users\Gavin\Desktop\李兰练习\4.0版本\select\select\obj\x86\Debug\select.Properties.Resources.resources
+C:\Users\Gavin\Desktop\李兰练习\4.0版本\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\4.0版本\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\4.0版本\select\select\bin\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\4.0版本\select\select\bin\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\5.0版本\select\select\obj\x86\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\5.0版本\select\select\obj\x86\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\5.0版本\select\select\bin\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\5.0版本\select\select\bin\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\5.0版本\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\李兰练习\5.0版本\select\select\obj\x86\Debug\select.Form1.resources
+C:\Users\Gavin\Desktop\李兰练习\5.0版本\select\select\obj\x86\Debug\select.Properties.Resources.resources
+C:\Users\Gavin\Desktop\李兰练习\5.0版本\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\5.0版本\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\5.0版本,计数有问题，写入txt还未改完\select\select\obj\x86\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\5.0版本,计数有问题，写入txt还未改完\select\select\obj\x86\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\7.0版本\select\select\obj\x86\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\7.0版本\select\select\obj\x86\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\7.0版本\select\select\bin\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\7.0版本\select\select\bin\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\7.0版本\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\李兰练习\7.0版本\select\select\obj\x86\Debug\select.Form1.resources
+C:\Users\Gavin\Desktop\李兰练习\7.0版本\select\select\obj\x86\Debug\select.Properties.Resources.resources
+C:\Users\Gavin\Desktop\李兰练习\7.0版本\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\7.0版本\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\8.0版本\select\select\obj\x86\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\8.0版本\select\select\obj\x86\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\8.0版本\select\select\bin\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\8.0版本\select\select\bin\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\8.0版本\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\李兰练习\8.0版本\select\select\obj\x86\Debug\select.Form1.resources
+C:\Users\Gavin\Desktop\李兰练习\8.0版本\select\select\obj\x86\Debug\select.Properties.Resources.resources
+C:\Users\Gavin\Desktop\李兰练习\8.0版本\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\8.0版本\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\9.0版本\select\select\obj\x86\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\9.0版本\select\select\obj\x86\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\9.0版本\select\select\bin\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\9.0版本\select\select\bin\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\9.0版本\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\李兰练习\9.0版本\select\select\obj\x86\Debug\select.Form1.resources
+C:\Users\Gavin\Desktop\李兰练习\9.0版本\select\select\obj\x86\Debug\select.Properties.Resources.resources
+C:\Users\Gavin\Desktop\李兰练习\9.0版本\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\9.0版本\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验\select\select\obj\x86\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验\select\select\obj\x86\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验\select\select\bin\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验\select\select\bin\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验\select\select\obj\x86\Debug\select.Form1.resources
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验\select\select\obj\x86\Debug\select.Properties.Resources.resources
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验和帧时间显示\select\select\obj\x86\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验和帧时间显示\select\select\obj\x86\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\11.0优化代码提高运行效率\select\select\bin\Debug\select.exe
+C:\Users\Gavin\Desktop\李兰练习\11.0优化代码提高运行效率\select\select\bin\Debug\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Debug\select.Form1.resources
+C:\Users\Gavin\Desktop\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Debug\select.Properties.Resources.resources
+C:\Users\Gavin\Desktop\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Debug\select.exe
+E:\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Debug\select.pdb
+E:\李兰练习\11.0优化代码提高运行效率\select\select\bin\Debug\select.exe
+E:\李兰练习\11.0优化代码提高运行效率\select\select\bin\Debug\select.pdb
+E:\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Debug\select.Form1.resources
+E:\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Debug\select.Properties.Resources.resources
+E:\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\李兰练习\12.0对合并保存的波形解压缩\select\select\obj\x86\Debug\select.exe
+E:\李兰练习\12.0对合并保存的波形解压缩\select\select\obj\x86\Debug\select.pdb
+E:\李兰练习\12.0对合并保存的波形解压缩\select\select\bin\Debug\select.exe
+E:\李兰练习\12.0对合并保存的波形解压缩\select\select\bin\Debug\select.pdb
+E:\李兰练习\12.0对合并保存的波形解压缩\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\李兰练习\12.0对合并保存的波形解压缩\select\select\obj\x86\Debug\select.Form1.resources
+E:\李兰练习\12.0对合并保存的波形解压缩\select\select\obj\x86\Debug\select.Properties.Resources.resources
+E:\李兰练习\12.0对合并保存的波形解压缩\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\李兰练习\12.0对合并保存的波形解压缩\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\李兰练习\13.0测试\select\select\obj\x86\Debug\select.exe
+E:\李兰练习\13.0测试\select\select\obj\x86\Debug\select.pdb
+E:\李兰练习\13.0测试\select\select\bin\Debug\select.exe
+E:\李兰练习\13.0测试\select\select\bin\Debug\select.pdb
+E:\李兰练习\13.0测试\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\李兰练习\13.0测试\select\select\obj\x86\Debug\select.Properties.Resources.resources
+E:\李兰练习\13.0测试\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\李兰练习\13.0测试\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\李兰练习\13.0测试\select\select\obj\x86\Debug\select.select.resources
+E:\李兰练习\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Debug\select.exe
+E:\李兰练习\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Debug\select.pdb
+E:\李兰练习\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\bin\Debug\select.exe
+E:\李兰练习\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\bin\Debug\select.pdb
+E:\李兰练习\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\李兰练习\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Debug\select.select.resources
+E:\李兰练习\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Debug\select.Properties.Resources.resources
+E:\李兰练习\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\李兰练习\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件\select\select\obj\x86\Debug\select.exe
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件\select\select\obj\x86\Debug\select.pdb
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件\select\select\bin\Debug\select.exe
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件\select\select\bin\Debug\select.pdb
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件\select\select\obj\x86\Debug\select.select.resources
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件\select\select\obj\x86\Debug\select.Properties.Resources.resources
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\select.exe
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\select.pdb
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\bin\Debug\select.exe
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\bin\Debug\select.pdb
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\select.select.resources
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\select.Properties.Resources.resources
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\检车线机动车外廓尺寸检测系统\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\bin\Debug\select.exe
+E:\检车线机动车外廓尺寸检测系统\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\bin\Debug\select.pdb
+E:\检车线机动车外廓尺寸检测系统\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\检车线机动车外廓尺寸检测系统\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\select.select.resources
+E:\检车线机动车外廓尺寸检测系统\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\select.Properties.Resources.resources
+E:\检车线机动车外廓尺寸检测系统\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\检车线机动车外廓尺寸检测系统\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\检车线机动车外廓尺寸检测系统\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\select.exe
+E:\检车线机动车外廓尺寸检测系统\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\select.pdb
+E:\检车线机动车外廓尺寸检测系统\VDDS-201711\VDDS-20171106-1110\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\select.exe
+E:\检车线机动车外廓尺寸检测系统\VDDS-201711\VDDS-20171106-1110\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\select.pdb
+E:\检车线机动车外廓尺寸检测系统\VDDS-201711\VDDS-20171106-1110\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\bin\Debug\select.exe
+E:\检车线机动车外廓尺寸检测系统\VDDS-201711\VDDS-20171106-1110\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\bin\Debug\select.pdb
+E:\检车线机动车外廓尺寸检测系统\VDDS-201711\VDDS-20171106-1110\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\检车线机动车外廓尺寸检测系统\VDDS-201711\VDDS-20171106-1110\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\select.select.resources
+E:\检车线机动车外廓尺寸检测系统\VDDS-201711\VDDS-20171106-1110\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\select.Properties.Resources.resources
+E:\检车线机动车外廓尺寸检测系统\VDDS-201711\VDDS-20171106-1110\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\检车线机动车外廓尺寸检测系统\VDDS-201711\VDDS-20171106-1110\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\李兰练习\失帧重复帧检测小软件\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\select.exe
+E:\李兰练习\失帧重复帧检测小软件\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\select.pdb
+E:\李兰练习\失帧重复帧检测小软件\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\bin\Debug\select.exe
+E:\李兰练习\失帧重复帧检测小软件\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\bin\Debug\select.pdb
+E:\李兰练习\失帧重复帧检测小软件\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\李兰练习\失帧重复帧检测小软件\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\select.select.resources
+E:\李兰练习\失帧重复帧检测小软件\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\select.Properties.Resources.resources
+E:\李兰练习\失帧重复帧检测小软件\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\李兰练习\失帧重复帧检测小软件\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Debug\GenerateResource.write.1.tlog

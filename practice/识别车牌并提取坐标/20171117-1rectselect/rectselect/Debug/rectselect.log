@@ -1,0 +1,38 @@
+﻿生成启动时间为 2017/11/17 15:07:14。
+     1>项目“E:\opencv practice\rectselect\rectselect\rectselect.vcxproj”在节点 2 上(rebuild 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\rectselect.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         E:\software\vs\vs2010\vs_install\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\rectselect.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         E:\software\vs\vs2010\vs_install\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\rectselect.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt rectselect.cpp
+         rectselect.cpp
+     1>e:\software\opencv2.4.9\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\software\vs\vs2010\vs_install\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\opencv practice\rectselect\rectselect\rectselect.cpp(121): warning C4172: 返回局部变量或临时变量的地址
+     1>e:\opencv practice\rectselect\rectselect\rectselect.cpp(147): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\opencv practice\rectselect\rectselect\rectselect.cpp(157): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\software\vs\vs2010\vs_install\vc\include\stdio.h(371) : 参见“sprintf”的声明
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\rectselect.exe.embed.manifest.res" Debug\rectselect_manifest.rc 
+       Link:
+         E:\software\vs\vs2010\vs_install\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\opencv practice\rectselect\Debug\rectselect.exe" /INCREMENTAL /NOLOGO opencv_ml249d.lib opencv_calib3d249d.lib opencv_contrib249d.lib opencv_core249d.lib opencv_features2d249d.lib opencv_flann249d.lib opencv_gpu249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib opencv_legacy249d.lib opencv_objdetect249d.lib opencv_ts249d.lib opencv_video249d.lib opencv_nonfree249d.lib opencv_ocl249d.lib opencv_photo249d.lib opencv_stitching249d.lib opencv_superres249d.lib opencv_videostab249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\rectselect.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\opencv practice\rectselect\Debug\rectselect.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\opencv practice\rectselect\Debug\rectselect.lib" /MACHINE:X86 Debug\rectselect.exe.embed.manifest.res
+         Debug\rectselect.obj
+         Debug\stdafx.obj
+       Manifest:
+         正在删除文件“Debug\rectselect.exe.embed.manifest”。
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\rectselect.exe.embed.manifest" /manifest Debug\rectselect.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\rectselect.exe.embed.manifest.res" Debug\rectselect_manifest.rc 
+       LinkEmbedManifest:
+         E:\software\vs\vs2010\vs_install\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\opencv practice\rectselect\Debug\rectselect.exe" /INCREMENTAL /NOLOGO opencv_ml249d.lib opencv_calib3d249d.lib opencv_contrib249d.lib opencv_core249d.lib opencv_features2d249d.lib opencv_flann249d.lib opencv_gpu249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib opencv_legacy249d.lib opencv_objdetect249d.lib opencv_ts249d.lib opencv_video249d.lib opencv_nonfree249d.lib opencv_ocl249d.lib opencv_photo249d.lib opencv_stitching249d.lib opencv_superres249d.lib opencv_videostab249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\rectselect.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\opencv practice\rectselect\Debug\rectselect.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\opencv practice\rectselect\Debug\rectselect.lib" /MACHINE:X86 Debug\rectselect.exe.embed.manifest.res
+         Debug\rectselect.obj
+         Debug\stdafx.obj
+         rectselect.vcxproj -> E:\opencv practice\rectselect\Debug\rectselect.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\rectselect.unsuccessfulbuild”。
+         正在对“Debug\rectselect.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\opencv practice\rectselect\rectselect\rectselect.vcxproj”(rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.15

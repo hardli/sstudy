@@ -1,0 +1,11 @@
+C:\Users\Gavin\Desktop\lilan\Openfile\Openfile\bin\Debug\Openfile.exe
+C:\Users\Gavin\Desktop\lilan\Openfile\Openfile\bin\Debug\Openfile.pdb
+C:\Users\Gavin\Desktop\lilan\Openfile\Openfile\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\lilan\Openfile\Openfile\obj\x86\Debug\Openfile.Form1.resources
+C:\Users\Gavin\Desktop\lilan\Openfile\Openfile\obj\x86\Debug\Openfile.Properties.Resources.resources
+C:\Users\Gavin\Desktop\lilan\Openfile\Openfile\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\lilan\Openfile\Openfile\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gavin\Desktop\lilan\Openfile\Openfile\obj\x86\Debug\Openfile.exe
+C:\Users\Gavin\Desktop\lilan\Openfile\Openfile\obj\x86\Debug\Openfile.pdb
+C:\Users\Gavin\Desktop\fileFolder\Openfile\obj\x86\Debug\Openfile.exe
+C:\Users\Gavin\Desktop\fileFolder\Openfile\obj\x86\Debug\Openfile.pdb

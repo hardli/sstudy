@@ -1,0 +1,10 @@
+E:\opencv practice\SeperateLEDTest\SeperateLEDTest\bin\Debug\SeperateLEDTest.exe
+E:\opencv practice\SeperateLEDTest\SeperateLEDTest\bin\Debug\SeperateLEDTest.pdb
+E:\opencv practice\SeperateLEDTest\SeperateLEDTest\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\opencv practice\SeperateLEDTest\SeperateLEDTest\obj\x86\Debug\SeperateLEDTest.Form1.resources
+E:\opencv practice\SeperateLEDTest\SeperateLEDTest\obj\x86\Debug\SeperateLEDTest.LEDForm.resources
+E:\opencv practice\SeperateLEDTest\SeperateLEDTest\obj\x86\Debug\SeperateLEDTest.Properties.Resources.resources
+E:\opencv practice\SeperateLEDTest\SeperateLEDTest\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\opencv practice\SeperateLEDTest\SeperateLEDTest\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\opencv practice\SeperateLEDTest\SeperateLEDTest\obj\x86\Debug\SeperateLEDTest.exe
+E:\opencv practice\SeperateLEDTest\SeperateLEDTest\obj\x86\Debug\SeperateLEDTest.pdb

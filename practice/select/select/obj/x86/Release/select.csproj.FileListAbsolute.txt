@@ -1,0 +1,89 @@
+C:\Users\Gavin\Desktop\李兰练习\7.0版本\select\select\bin\Release\select.exe
+C:\Users\Gavin\Desktop\李兰练习\7.0版本\select\select\bin\Release\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\7.0版本\select\select\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\李兰练习\7.0版本\select\select\obj\x86\Release\select.Form1.resources
+C:\Users\Gavin\Desktop\李兰练习\7.0版本\select\select\obj\x86\Release\select.Properties.Resources.resources
+C:\Users\Gavin\Desktop\李兰练习\7.0版本\select\select\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\7.0版本\select\select\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\7.0版本\select\select\obj\x86\Release\select.exe
+C:\Users\Gavin\Desktop\李兰练习\7.0版本\select\select\obj\x86\Release\select.pdb
+C:\Users\Gavin\Desktop\select\select\obj\x86\Release\select.exe
+C:\Users\Gavin\Desktop\select\select\obj\x86\Release\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\9.0版本\select\select\obj\x86\Release\select.exe
+C:\Users\Gavin\Desktop\李兰练习\9.0版本\select\select\obj\x86\Release\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\9.0版本\select\select\bin\Release\select.exe
+C:\Users\Gavin\Desktop\李兰练习\9.0版本\select\select\bin\Release\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\9.0版本\select\select\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\李兰练习\9.0版本\select\select\obj\x86\Release\select.Form1.resources
+C:\Users\Gavin\Desktop\李兰练习\9.0版本\select\select\obj\x86\Release\select.Properties.Resources.resources
+C:\Users\Gavin\Desktop\李兰练习\9.0版本\select\select\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\9.0版本\select\select\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验和帧时间显示\select\select\obj\x86\Release\select.exe
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验和帧时间显示\select\select\obj\x86\Release\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验和帧时间显示\select\select\bin\Release\select.exe
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验和帧时间显示\select\select\bin\Release\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验和帧时间显示\select\select\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验和帧时间显示\select\select\obj\x86\Release\select.Form1.resources
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验和帧时间显示\select\select\obj\x86\Release\select.Properties.Resources.resources
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验和帧时间显示\select\select\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\10.0版本加入帧校验和帧时间显示\select\select\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\11.0提高运行效率\select\select\obj\x86\Release\select.exe
+C:\Users\Gavin\Desktop\李兰练习\11.0提高运行效率\select\select\obj\x86\Release\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\11.0提高运行效率\select\select\bin\Release\select.exe
+C:\Users\Gavin\Desktop\李兰练习\11.0提高运行效率\select\select\bin\Release\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\11.0提高运行效率\select\select\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\李兰练习\11.0提高运行效率\select\select\obj\x86\Release\select.Form1.resources
+C:\Users\Gavin\Desktop\李兰练习\11.0提高运行效率\select\select\obj\x86\Release\select.Properties.Resources.resources
+C:\Users\Gavin\Desktop\李兰练习\11.0提高运行效率\select\select\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\11.0提高运行效率\select\select\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Release\select.exe
+C:\Users\Gavin\Desktop\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Release\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\11.0优化代码提高运行效率\select\select\bin\Release\select.exe
+C:\Users\Gavin\Desktop\李兰练习\11.0优化代码提高运行效率\select\select\bin\Release\select.pdb
+C:\Users\Gavin\Desktop\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Gavin\Desktop\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Release\select.Form1.resources
+C:\Users\Gavin\Desktop\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Release\select.Properties.Resources.resources
+C:\Users\Gavin\Desktop\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Gavin\Desktop\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Release\GenerateResource.write.1.tlog
+E:\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Release\select.exe
+E:\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Release\select.pdb
+E:\李兰练习\11.0优化代码提高运行效率\select\select\bin\Release\select.exe
+E:\李兰练习\11.0优化代码提高运行效率\select\select\bin\Release\select.pdb
+E:\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Release\ResolveAssemblyReference.cache
+E:\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Release\select.Properties.Resources.resources
+E:\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Release\GenerateResource.read.1.tlog
+E:\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Release\GenerateResource.write.1.tlog
+E:\李兰练习\11.0优化代码提高运行效率\select\select\obj\x86\Release\select.Form1.resources
+E:\李兰练习\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Release\select.exe
+E:\李兰练习\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Release\select.pdb
+E:\李兰练习\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\bin\Release\select.exe
+E:\李兰练习\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\bin\Release\select.pdb
+E:\李兰练习\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Release\ResolveAssemblyReference.cache
+E:\李兰练习\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Release\select.select.resources
+E:\李兰练习\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Release\select.Properties.Resources.resources
+E:\李兰练习\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Release\GenerateResource.read.1.tlog
+E:\李兰练习\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Release\GenerateResource.write.1.tlog
+E:\李兰练习\失帧重复帧检测小软件\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Release\select.exe
+E:\李兰练习\失帧重复帧检测小软件\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Release\select.pdb
+E:\李兰练习\失帧重复帧检测小软件\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\bin\Release\select.exe
+E:\李兰练习\失帧重复帧检测小软件\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\bin\Release\select.pdb
+E:\李兰练习\失帧重复帧检测小软件\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Release\ResolveAssemblyReference.cache
+E:\李兰练习\失帧重复帧检测小软件\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Release\select.select.resources
+E:\李兰练习\失帧重复帧检测小软件\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Release\select.Properties.Resources.resources
+E:\李兰练习\失帧重复帧检测小软件\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Release\GenerateResource.read.1.tlog
+E:\李兰练习\失帧重复帧检测小软件\14.0将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Release\GenerateResource.write.1.tlog
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Release\select.exe
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\select\select\obj\x86\Release\select.pdb
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件\select\select\obj\x86\Release\select.exe
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件\select\select\obj\x86\Release\select.pdb
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Release\select.exe
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Release\select.pdb
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\bin\Release\select.exe
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\bin\Release\select.pdb
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Release\ResolveAssemblyReference.cache
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Release\select.select.resources
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Release\select.Properties.Resources.resources
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Release\GenerateResource.read.1.tlog
+E:\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Release\GenerateResource.write.1.tlog
+E:\检车线机动车外廓尺寸检测系统\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Release\select.exe
+E:\检车线机动车外廓尺寸检测系统\失帧重复帧小软件-将选择一个合帧文件扩展为选择只包含多个合帧文件的文件夹\最终版本-失帧重复帧小软件 - 遍历文件夹中的文件夹，然后遍历子文件夹中的所有文件\select\select\obj\x86\Release\select.pdb

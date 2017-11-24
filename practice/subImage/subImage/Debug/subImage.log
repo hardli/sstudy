@@ -1,0 +1,38 @@
+﻿生成启动时间为 2017/11/23 14:39:41。
+     1>项目“E:\opencv practice\subImage\subImage\subImage.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\subImage.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         E:\software\vs\vs2010\vs_install\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\subImage.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt subImage.cpp
+         subImage.cpp
+     1>e:\software\opencv2.4.9\build\include\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\software\vs\vs2010\vs_install\vc\include\stdio.h(234) : 参见“fopen”的声明
+     1>e:\opencv practice\subimage\subimage\subimage.cpp(24): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\software\vs\vs2010\vs_install\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\opencv practice\subimage\subimage\subimage.cpp(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\software\vs\vs2010\vs_install\vc\include\string.h(105) : 参见“strcpy”的声明
+     1>e:\opencv practice\subimage\subimage\subimage.cpp(31): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\software\vs\vs2010\vs_install\vc\include\stdio.h(371) : 参见“sprintf”的声明
+     1>e:\opencv practice\subimage\subimage\subimage.cpp(34): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 e:\software\vs\vs2010\vs_install\vc\include\string.h(105) : 参见“strcpy”的声明
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         E:\software\vs\vs2010\vs_install\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\opencv practice\subImage\Debug\subImage.exe" /INCREMENTAL /NOLOGO opencv_ml249d.lib opencv_calib3d249d.lib opencv_contrib249d.lib opencv_core249d.lib opencv_features2d249d.lib opencv_flann249d.lib opencv_gpu249d.lib opencv_highgui249d.lib opencv_imgproc249d.lib opencv_legacy249d.lib opencv_objdetect249d.lib opencv_ts249d.lib opencv_video249d.lib opencv_nonfree249d.lib opencv_ocl249d.lib opencv_photo249d.lib opencv_stitching249d.lib opencv_superres249d.lib opencv_videostab249d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\subImage.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\opencv practice\subImage\Debug\subImage.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\opencv practice\subImage\Debug\subImage.lib" /MACHINE:X86 Debug\subImage.exe.embed.manifest.res
+         Debug\stdafx.obj
+         Debug\subImage.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\subImage.exe.embed.manifest" /manifest Debug\subImage.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         subImage.vcxproj -> E:\opencv practice\subImage\Debug\subImage.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\subImage.unsuccessfulbuild”。
+         正在对“Debug\subImage.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\opencv practice\subImage\subImage\subImage.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.34
